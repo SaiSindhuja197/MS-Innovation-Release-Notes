@@ -18,6 +18,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-14</summary>
+
+## Release Date : 2026-04-14
+
+### Summary of Changes
+
+Updated the guide with major UI updates and refined instructions for improved clarity.
+
+### Infrastructure Changes
+
+- Replaced the gpt-4.1-mini model with gpt-5-mini due to deprecation and updated the lab flow accordingly. 
+
+### Content Changes
+
+- Updated the lab content to reflect the gpt-5-mini model.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Screenshots are updated as per the latest UI and instructions.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-14
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, enhanced the labguide with minor screenshot updates.
+
+---
+</details>
+
+<details>
   <summary>2026-04-03</summary>
 
 ## Release Date : 2026-04-03

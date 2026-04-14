@@ -14,6 +14,41 @@ This Page contains detailed notes about the latest updates and modifications mad
  `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-04-14</summary>
+
+## Release Date: 2026-04-14
+
+### Summary of Changes
+
+Enhanced the overall lab experience by updating UI screenshots to reflect the latest interface and improving step-by-step instructions for better clarity and usability. Additionally, updated the model to gpt-4.1-mini to support the evaluation workflow.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Improved and clarified instructions in Getting started page and Lab 1 to make the steps easier to follow for users.
+- Updated Lab 1 to use gpt-4.1-mini model to support the evaluation workflow.
+
+### Screenshot Updates
+
+Screenshots have been updated to reflect the latest UI and model configuration:
+- Updated the Getting started page and Lab 01 page screenshots to reflect the current interface.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-14
+
+### Testing Scope 
+
+Performed end-to-end validation of all labs to ensure accuracy and usability. Verified updated instructions, confirmed correct model replacement in Azure AI Foundry, and tested deployment workflows using the latest model configuration. Also ensured that all updated screenshots align with the current UI and documented steps.
+
+---
+</details>
+
 <details>
   <summary>2026-04-10</summary>
 

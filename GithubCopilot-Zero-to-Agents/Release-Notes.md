@@ -15,6 +15,38 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 # Release Notes
 
+## Release Date: 2026-04-20
+ 
+### Summary of Changes
+
+- Content updates, refined instructions to improve understanding and clarity.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Minor updates**: 
+
+    -Updated few instructions to align with latest flow of the lab 
+
+### Screenshot Updates
+
+N/A
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-20
+
+### Testing Scope 
+
+- Completed end to end testing and validated all the steps
+
+- Reviewed the lab guide and rendering as well
+
+---
+
 <details>
   <summary>2026-04-01 - Onboarding</summary>
 

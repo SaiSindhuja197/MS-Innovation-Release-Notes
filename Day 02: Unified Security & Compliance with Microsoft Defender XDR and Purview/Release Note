@@ -1,0 +1,50 @@
+# Day 02: Unified Security & Compliance with Microsoft Defender XDR and Purview
+
+Welcome to the **Day 02: Unified Security & Compliance with Microsoft Defender XDR and Purview** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+
+## Overview
+
+This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+
+- Testing dates
+- Descriptions of changes to lab infrastructure
+- Updates to content or documentation
+- Changes to screenshots and visuals used in the lab
+
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+
+# Release Notes
+
+<details>
+  <summary>2026-03-11</summary>
+
+### Release Date: 2026-03-11
+
+## Summary of Changes
+
+ - The lab has been successfully tested with the lab content. UI and content has been updated to reflect the latest version of foundry porta.
+
+## Infrastructure Changes
+
+  - NA 
+
+## Content Changes
+ 
+  - Ex1, Task1, Step2: Configure Sensitive Labels
+    - Updated instrctions to avoid errors and better understanding.
+  - Ex3, Task2, Step1: Test and review encrypted message delivery and access
+    - Updated instrctions better understanding.
+
+## Screenshot Updates
+
+  - NA
+
+## Validation
+
+No Validation
+
+## Testing Scope
+
+ - End-to-end lab testing was completed successfully without any chanllenges. Minor changes requried in the Guide.
+
+</details>

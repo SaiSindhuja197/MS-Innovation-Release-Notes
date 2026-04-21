@@ -18,6 +18,44 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2026-04-21</summary>
+
+## Release Date: 2026-04-21
+
+### Summary of Changes
+
+Accommodated customer feedback by improving lab instructions, resolving common issues encountered during execution, and enhancing the overall learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Accommodated customer feedback by improving lab instructions
+- Added notes for common issues
+- Improved condition handling
+- Fixed response inconsistencies
+- Updated variable usage
+- Removed hardcoded values
+- Simplified instructions
+
+### Screenshot Updates
+
+- **Minor updates**: Minor screenshot updates to align with flow of the lab .
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-21
+
+### Testing Scope 
+
+Performed end-to-end validation of the lab, ensuring all steps work as expected. Updated the lab guide with clear and accurate instructions.
+
+---
+</details>
+
+<details>
   <summary>2026-04-03</summary>
 
 ## Release Date: 2026-04-03

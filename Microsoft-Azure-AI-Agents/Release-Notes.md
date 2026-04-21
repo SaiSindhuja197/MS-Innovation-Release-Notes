@@ -16,6 +16,37 @@ This **page contains** detailed notes about the latest updates and modifications
 # Release Notes
 
 <details>
+  <summary>2026-04-21</summary>
+
+### Release Date: 2026-04-21
+
+## Summary of Changes
+
+Updated the documentation for AI Search deployment instructions and optimized the instructions to enhance clarity, streamline user flow, and improve overall learning experience.
+
+## Infrastructure Changes
+
+N/A 
+
+## Content Changes
+ 
+- **Lab 1 - Task 3- Step 3: Standard Pricing Tier is unavailable to select due to high demand for AI Search.page, hence added a note in the instructions.
+
+## Screenshot Updates
+
+- **Lab 1 - Task 3- Step 3: Standard Pricing Tier is unavailable to select due to high demand for AI Search.page, hence added a note to select another region and updated screenshot.
+
+## Validation
+
+  - All Validation Succeeded.
+
+## Testing Scope
+
+ - Executed thorough end-to-end validation of the lab environment, systematically verifying lab validations.
+
+</details>
+
+<details>
   <summary>2026-03-26</summary>
 
 ### Release Date: 2026-03-26

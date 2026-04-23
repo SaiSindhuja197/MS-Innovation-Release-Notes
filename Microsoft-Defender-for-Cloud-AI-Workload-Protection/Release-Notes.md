@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-21</summary>
+
+## Release Date: 2026-04-21
+
+### Summary of Changes
+
+Updated the guide with clearer, up-to-date UI screenshots and refined instructions for improved clarity.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated the instructions with better clarity and accuracy
+
+Lab 06
+
+ - Marking Tasks 4 and 5 as read-only, and added notes informing users that changes may take up to 48 hours to reflect.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Refined and standardized screenshots for greater clarity, accuracy, and usability.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-21
+
+### Testing Scope
+
+- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+---
+</details>
+
+<details>
   <summary>2026-02-20</summary>
 
 ## Release Date: 2026-02-20

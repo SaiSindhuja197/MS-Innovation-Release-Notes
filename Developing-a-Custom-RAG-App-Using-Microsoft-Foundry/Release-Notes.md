@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-22</summary>
+
+## Release Date: 2026-04-22
+
+### Summary of Changes
+
+Enhanced the overall lab experience by updating UI screenshots to reflect the latest interface and improving step-by-step instructions for better clarity and usability.
+
+### Infrastructure Changes
+
+- Added automation to clone the latest lab repository from GitHub (azureai-samples) during VM provisioning.
+- Implemented retry logic (3 attempts) to validate Python installation and ensure availability before proceeding with subsequent steps.
+- Included step to upgrade pip using the explicitly defined Python path to maintain compatibility with latest packages.
+
+### Content Changes
+
+- Enhanced the Getting Started page with clearer instructions, including the lab scenario, validation checks, prerequisites, and repository structure.
+- Refined all lab exercises to incorporate detailed scenarios, improved summaries, and more structured, easy-to-follow instructions.
+- Added the complete working version of `evaluate.py` for reference after users update the file to include coherence and relevance evaluators.
+
+### Screenshot Updates
+
+Screenshots have been updated to reflect the latest UI and model configuration:
+- Updated the architecture diagram on the Getting Started page to visually represent each lab exercise with clearly defined sections.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-04-22
+
+### Testing Scope 
+
+Performed end-to-end validation of all labs to ensure accuracy and usability. Verified updated instructions and tested deployment workflows using the working model configuration. Also ensured that all updated screenshots align with the current UI and documented steps.
+
+---
+</details>
+
+<details>
   <summary>2026-04-14</summary>
 
 ## Release Date: 2026-04-14

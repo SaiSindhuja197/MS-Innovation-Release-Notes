@@ -18,6 +18,54 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2026-04-21</summary>
+
+## Release Date: 2026-04-21
+
+### Summary of Changes
+
+Updated the lab guide to improve clarity and align with the latest Copilot Studio experience. Removed hardcoded values, introduced dynamic inputs, and added guidance to address common issues.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated instructions to improve clarity and alignment with the latest UI
+
+**Lab 02 – Task 1:**
+- Added a note clarifying that “Speech variation available” is a default feature and not related to voice.
+
+- Included guidance to resolve environment validation issues by refreshing and selecting the correct environment.
+
+**Lab 03 – Task 2:**
+- Added a note explaining the expected behavior of User’s entire response, where conditions match only exact keywords, with an example.
+
+- Provided instructions to manually add the DestinationCity variable to ensure correct usage.
+
+**Lab 05 – Task 1:**
+
+- Removed hardcoded weather input and replaced it with a dynamic variable.
+
+- This allows users to provide input and makes the flow more flexible.
+
+### Screenshot Updates
+
+- **Minor updates**: Minor screenshot updates to align with flow of the lab .
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-21
+
+### Testing Scope 
+
+Performed end-to-end validation of the lab, ensuring all steps work as expected. Updated the lab guide with clear and accurate instructions.
+
+---
+</details>
+
+<details>
   <summary>2026-04-03</summary>
 
 ## Release Date: 2026-04-03

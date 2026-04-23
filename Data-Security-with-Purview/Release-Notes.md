@@ -16,6 +16,54 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+  <summary>2026-04-22</summary>
+
+## Release Date: 2026-04-22
+
+### Summary of Changes
+
+This update focuses on aligning the lab content with the latest UI changes and improving overall user experience. Relevant screenshots have also been updated to reflect the latest UI across multiple labs and tasks.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated terminology across the getting started page and lab instructions by replacing `Password` with `Temporary Access Pass` wherever Azure sign-in is required.
+- Revised Lab 1 – Task 1 to reflect the updated UI for sensitivity label creation. Removed steps related to adding users and assigning permissions to the ODL user, as they are no longer required.
+- Updated Lab 4 – Task 2 to align with the latest UI changes while applying sensitivity labels to a text file.
+- Modified Lab 5 – Task 2 to upload documents directly from the Lab VM File Explorer instead of using OneDrive.
+- Improved the overall navigation flow across lab steps to provide clearer guidance while working across multiple portals.
+
+### Screenshot Updates
+
+The following screenshots have been updated:
+- Lab 1 Task 1: Steps 8, 11, 24
+- Lab 2 Task 1: Step 10
+- Lab 3 Task 1: Step 12, Task 2: Step 5
+- Lab 4 Task 2: Step 4
+- Lab 5 Task 2: Steps 4, 5, 6
+- Lab 6 Task 3: Step 7
+- Lab 7 Task 1.2: Step 5.2, Task 1.3: Steps 15, 16, Task 2: Step 10, Task 4: Step 2
+- Lab 9 Task 1: Steps 2, 3, 4, 5, 6
+- Lab 10 Task 1: Step 7
+- Lab 11 Task 1: Steps 2, 3, Task 3: Step 8.2
+- Lab 12 Task 2: Step 3, Task 3: Step 7
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-20
+
+### Testing Scope 
+
+The testing covered end-to-end validation of all updated labs to ensure accuracy and usability with the latest UI changes.
+
+---
+</details>
+
+
+<details>
   <summary>2026-03-18</summary>
 
 ## Release Date: 2026-03-18

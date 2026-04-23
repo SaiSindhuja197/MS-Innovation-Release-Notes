@@ -18,6 +18,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>13 April 2026</summary>
+
+## Summary of Changes
+
+Minor update to reflect updated Azure portal interface - UI screenshots refreshed for better alignment with the latest layout. No functional or instructional changes made.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- **Change**: Added a few **Notes** and **Instructions** for better user understandability.
+  
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Screenshots have been updated as per new UI changes and updated instructions.
+  
+## Testing Notes
+
+- **Testing Date**: 2026-04-13
+
+## Testing Scope 
+
+- Performed full validation of all lab tasks with the new UI. The lab is functioning as expected.
+
+---
+</details>
+
+<details>
   <summary>24 March 2025</summary>
 
 ## Summary of Changes

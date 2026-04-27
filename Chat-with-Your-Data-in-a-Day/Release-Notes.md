@@ -16,6 +16,42 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-04-20</summary>
+
+## Release Date: 2026-04-20
+
+### Summary of Changes
+
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+  - Lab 2  Task 7 Point 6 :  Select Add on the reseller and input the synonym.
+  -  Lab 2 Task 7 Point 16 :We are now ready with a statement that reads: Sales happen Months. This will help Copilot better understand the typical language it will face in the prompts from human prompts and click on Apply/Approve.
+  -  Lab 2 Task 1 Point 5: In the properties pane, change the cross-filter direction from single to both and click on Apply changes.
+  -  Lab 4 Task 1 Point 10: Note is added.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-20
+  Testing activities were carried out on the same date to validate the latest content, screenshots, and feature behavior.
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI. 
+- Updated the lab guide content where necessary to ensure full compatibility with current platform behavior.
+
+</details>
+
+<details>
   <summary>2026-03-30</summary>
 
 ## Release Date: 2026-03-30

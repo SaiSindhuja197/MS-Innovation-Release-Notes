@@ -15,6 +15,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-04-22</summary>
+
+## Release Date: 2026-04-22
+
+### Summary of Changes
+
+Incorporated minor UI updates and refined instructions to enhance clarity and overall understanding.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Made minor updates to ensure alignment between the steps and the screenshots.
+
+### Screenshot Updates
+
+- **Minor updates**: Made minor updates to screenshots to align with the latest VS Code UI.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-22
+
+### Testing Scope 
+
+Completed end-to-end testing of the lab, with all validations successfully passed.
+
+
+---
+</details>
+
+
 <details>
   <summary>2026-04-03</summary>
 

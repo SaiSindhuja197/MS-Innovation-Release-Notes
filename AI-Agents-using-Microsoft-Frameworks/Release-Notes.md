@@ -15,7 +15,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 # Release Notes
 <details>
-  <summary>2026-04-15</summary>
+  <summary>2026-04-23</summary>
 
 ## Release Date: 2026-04-23
  
@@ -50,9 +50,6 @@ N/A
 ---
 </details>
 
-
-<details>
-  <summary>2026-03-23</summary>
 
 
 <details>

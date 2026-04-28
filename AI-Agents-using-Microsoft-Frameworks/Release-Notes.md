@@ -14,6 +14,43 @@ This repository contains detailed notes about the latest updates and modificatio
 For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com
 
 # Release Notes
+<details>
+  <summary>2026-04-23</summary>
+
+## Release Date: 2026-04-23
+ 
+### Summary of Changes
+
+- Updated the lab guide and related screenshots to use the replacement model GPT-5 following the retirement of GPT-4.1.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Minor updates**: 
+
+    - Updated the Lab guide with revised instructions and screenshots to align with the GPT-5 model replacement.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots in Lab 1 Exercise 1 to to align with the GPT-5 model replacement.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-23
+
+### Testing Scope 
+
+- Completed comprehensive end-to-end testing, validating all steps for accuracy, functionality, and seamless workflow execution across the entire process.
+
+---
+</details>
+
+
 
 <details>
   <summary>2026-04-15</summary>

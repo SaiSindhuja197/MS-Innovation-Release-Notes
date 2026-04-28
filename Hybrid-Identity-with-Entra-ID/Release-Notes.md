@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-28</summary>
+
+## Release Date: 2026-04-28
+
+### Summary of Changes
+
+Improved the overall lab experience by updating screenshots, improved the clarity of command instructions in the lab guide, and corrected a user-facing spelling error to enhance the overall user experience in line with the checklist.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- In Lab 4, Task 3, Step 3, corrected the command from “SignInLogs” to “SigninLogs”.
+- In Lab 5, Task 1, Step 4, updated the name from “Mirinda” to “Miranda”.
+
+### Screenshot Updates
+
+- Refreshed multiple screenshots for improved clarity and blurred sensitive parameters in accordance with the checklist.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-27
+
+### Testing Scope 
+
+ Performed end-to-end validation of the lab environment and documentation. Verified all instructions, commands, and portal navigation steps, and updated screenshots to match the current UI.
+
+---
+</details>
+
+<details>
   <summary>2026-04-07</summary>
 
 ## Release Date: 2026-04-07

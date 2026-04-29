@@ -30,15 +30,14 @@ N/A
 
 ### Content Changes
 
-- Exercise 1 Task 1 Point 17 : New note added with 2 new screenshots.
-- Exercise 4 Task 2 Point 6 : New note added with 2 new related screenshots
-- Exercise 5 Task 3 Point 8: screenshot changed
+- Exercise 1 Task 1 step 17 : New note added with 2 new screenshots to make instructions clearer.
+- Exercise 4 Task 2 step 6 : New note added with 2 new related screenshots for better understanding of steps mentioned in the note.
+- Exercise 5 Task 3 step 8: screenshot changed due to updates in the code.
 
  
-
 ### Screenshot Updates
 
-- **Updated Screenshots**: Updated screenshots with respective instructions.
+- **Updated Screenshots**: The screenshots have been updated to better illustrate and clarify the steps described.
       
 ### Testing Notes
 

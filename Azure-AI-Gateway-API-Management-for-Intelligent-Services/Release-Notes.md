@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-27</summary>
+
+## Release Date: 2026-04-27
+
+### Summary of Changes
+
+Minor updates have been made, including UI updates, refreshed screenshots, and refined instructions to improve clarity and accuracy.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Exercise 1 Task 1 Point 17 : New note added with 2 new screenshots.
+- Exercise 4 Task 2 Point 6 : New note added with 2 new related screenshots
+- Exercise 5 Task 3 Point 8: screenshot changed
+
+ 
+
+### Screenshot Updates
+
+- **Updated Screenshots**: Updated screenshots with respective instructions.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-27
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, enhanced the labguide with new latest screenshots and added instructions for better clarity.
+
+---
+</details>
+
+<details>
   <summary>2026-01-14</summary>
 
 ## Release Date: 2026-01-14

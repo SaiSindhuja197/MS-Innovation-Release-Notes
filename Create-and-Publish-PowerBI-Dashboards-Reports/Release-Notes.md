@@ -18,6 +18,40 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2026-04-30</summary>
+
+## Release Date: 2026-04-30 
+
+### Summary of Changes
+
+Minor updates were implemented across the guide in getting started page, including clearer and more accurate UI screenshots. Have updated the isntructions in Task 1 to align with the latest interface changes, and enhance the overall user experience for learners.
+
+### Infrastructure Changes
+
+1. Have implemented the lab validations as part of the feedback from previous testing history.
+2. Tested the lab with dedicated subscription format instead of Dedicated tenant as part of the feedback from previous testing history.
+
+### Content Changes
+
+- **Lab 01 - Task 1** - Have added instructions to add the service principle with admin rights.
+
+### Screenshot Updates
+
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-24  
+  Testing activities were carried out on the same date to validate the content, screenshots, and feature behavior.
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI. 
+- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
+
+</details>
+
+<details>
   <summary>2026-03-19</summary>
 
 ## Release Date: 2026-03-19

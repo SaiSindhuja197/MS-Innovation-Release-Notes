@@ -14,6 +14,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-05-05</summary>
+  
+## Release Date: 2026-05-05
+
+### Summary of Changes
+
+Performed end-to-end lab validation and updated content to align with the latest Azure Portal UI changes which included terminology updates, workflow adjustments, and improved screenshot standards for a better learner experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+  - Updated lab instructions across Lab 01, Lab 03, Lab 04, Lab 05, and Lab 06 to reflect latest Azure UI terminology and workflow changes.
+  - Incorporated service/UI updates such as changes in VNet creation terminology and backup configuration behavior (subscription field visibility).
+  - Improved step clarity and corrected minor inconsistencies identified during internal QA testing.
+
+### Screenshot Updates
+
+  - Replaced outdated and non-standard screenshots across Lab 01, Lab 03, Lab 04 (Task 1 & Task 2), Lab 05, and Lab 06.
+  - Updated screenshots to reflect latest Azure Portal UI and standardized visuals by removing environment-specific details (e.g., subscription names).
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-01
+
+### Testing Scope 
+
+Validation included end-to-end lab execution, verification of updated UI workflows, step sequencing, content accuracy, and alignment of screenshots with the current Azure Portal experience.
+
+---
+</details>
+
 <details>
   <summary>2026-03-04</summary>
   
